@@ -1,8 +1,3 @@
-MiTopheader
-
-MiNavbar
-
-MiBanner
 
 
 
